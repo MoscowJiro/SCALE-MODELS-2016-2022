@@ -127,10 +127,8 @@ Contact · Use · Time
 
 完整项目收录了 **2016—2022 年间的 148 张照片**，并整理为一套 **32-page Visual Archive & Case Study**。
 
-<!-- Replace the relative portfolio link with YOUR_GITHUB_PAGES_URL after deployment. -->
-
-- [查看 Interactive Portfolio](index.html)
-- [查看完整 PDF](exports/pdf/SCALE_MODELS_2016_2022.pdf)
+- [查看 Interactive Portfolio](https://moscowjiro.github.io/SCALE-MODELS-2016-2022/)
+- [查看完整 PDF](https://moscowjiro.github.io/SCALE-MODELS-2016-2022/exports/pdf/SCALE_MODELS_2016_2022.pdf)
 - [查看 Master Archive](index.html)
 
 ---
