@@ -1,0 +1,16 @@
+{
+  "name": "scale-models-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "preview": "node work/server.js",
+    "export": "node work/export.js all",
+    "export:pdf": "node work/export.js pdf",
+    "export:png": "node work/export.js png",
+    "build:pages": "node scripts/build-pages.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.55.0",
+    "sharp": "^0.34.0"
+  }
+}
